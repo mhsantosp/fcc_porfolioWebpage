@@ -69,6 +69,10 @@ section#welcome-section .jumbotron {
   font-family: 'Paprika', cursive;
   font-weight: bold;
   color: black;
+  background-color: #ffffff30;
+  width: max-content;
+  margin: auto;
+  padding: 0 1rem;
 }
 
 section#projects h2 {
